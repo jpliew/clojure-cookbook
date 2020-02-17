@@ -15,7 +15,7 @@ as Clojure data.
 
 To follow along with this recipe, add `[org.clojure/data.json "0.2.6"]` to your project’s dependencies, or start a REPL with +lein-try+:
 
-[source,shell-session]
+[source,bash]
 ----
 $ lein try org.clojure/data.json
 ----

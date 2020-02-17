@@ -12,7 +12,7 @@ Use +clojure.data.csv/read-csv+ to lazily read CSV data from a +String+ or +java
 
 To follow along with this recipe, add `[org.clojure/data.csv "0.1.2"]` to your project’s dependencies, or start a REPL with +lein-try+:
 
-[source,shell-session]
+[source,bash]
 ----
 $ lein try org.clojure/data.csv
 ----
